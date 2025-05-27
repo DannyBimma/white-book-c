@@ -10,6 +10,6 @@ int main(void)
     for(c = lowerBound; c <= upperBound; c += 5)
     {
         f = c * (9/5) + 32;
-        printf("%d c\t=\t %d f\n", c, f);
+        printf("%3d c\t=\t%6d f\n", c, f);
     }
 }
