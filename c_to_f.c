@@ -7,6 +7,10 @@ int main(void)
     float lowerBound = 0;
     float upperBound = 300;
 
+    // Temp output heading
+    printf("CELCIUS TO FAHRENHEIT TABLE\n");
+    printf("\n");
+
     for(c = lowerBound; c <= upperBound; c += 5)
     {
         f = (c * 9.0/5.0) + 32;
