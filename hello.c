@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("H\te\tl\tl\to\t, \nw\to\tr\tl\td\t!\n");
+    printf("H\te\tl\tl\to,\n \nw\to\tr\tl\td!\n");
 }
