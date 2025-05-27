@@ -2,6 +2,8 @@
 
 int main(void)
 {
-    int = c, f;
-    int = upperBound, lowerBound, increment;
+    int c;
+    int f;
+    int lowerBound = 0;
+    int upperBound = 300;
 }
