@@ -1,0 +1,9 @@
+The "Hello, world" Program
+The first exercise to be completed in the book is the obligatory
+"Hello world." The text doesn't dive too deep, sticking mostly to
+using it as opposed to how it works under the hood.
+
+So as per the exercise, I wrote a "Hello, world" in C with a little
+flare. It uses the escape characters for new line (\n) and tab (\t)
+to make a sort of double-spaced output for the world's most popular
+program.
