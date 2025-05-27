@@ -6,4 +6,10 @@ int main(void)
     int f;
     int lowerBound = 0;
     int upperBound = 300;
+
+    for(c = lowerBound; c <= upperBound; c += 5)
+    {
+        f = c * (9/5) + 32;
+        printf("%d\t%d\t\n", c, f);
+    }
 }
