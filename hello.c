@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("Hello, \n\tworld!\n");
+    printf("H\te\tl\tl\to\t, \nw\to\tr\tl\td\t!\n");
 }
