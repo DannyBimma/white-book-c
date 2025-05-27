@@ -2,14 +2,15 @@
 
 int main(void)
 {
-    int c;
-    int f;
-    int lowerBound = 0;
-    int upperBound = 300;
+    float c;
+    float f;
+    float lowerBound = 0;
+    float upperBound = 300;
 
     for(c = lowerBound; c <= upperBound; c += 5)
     {
-        f = c * (9/5) + 32;
-        printf("%3d c\t=\t%6d f\n", c, f);
+        f = (c * 9.0/5.0) + 32;
+        printf("%3.0f c\t=\t%6.1f f\n", c, f);
     }
+    return 0;
 }
