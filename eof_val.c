@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("EOF = %d", EOF);
+    printf("EOF = %d\n", EOF);
 
     return 0;
 }
