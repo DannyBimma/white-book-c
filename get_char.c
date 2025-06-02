@@ -3,11 +3,11 @@
 int main(void)
 {
     // get_char value
-    if ((get_char()) != EOF == 0)
+    if ((getchar()) != EOF == 0)
     {
         printf("It's Zero-chan!!");
     }
-    else if ((get_char()) != EOF == 1)
+    else if ((getchar()) != EOF == 1)
     {
         printf("It's One-chan!!");
     }
